@@ -1,5 +1,9 @@
 # curly-computing-machine 🌀
 
+<p>
+  <img src="caine.png" alt="caine" width="250"/>
+</p>
+
 > “What if computers… but wiggly?”
 
 Welcome to **curly-computing-machine**, a project that boldly asks questions no one needed answered and solves problems that absolutely did not exist.
